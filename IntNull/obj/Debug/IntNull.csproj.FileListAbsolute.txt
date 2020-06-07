@@ -1,0 +1,7 @@
+C:\Users\Nimmi\source\repos\IntNull\IntNull\obj\Debug\IntNull.csprojAssemblyReference.cache
+C:\Users\Nimmi\source\repos\IntNull\IntNull\obj\Debug\IntNull.csproj.CoreCompileInputs.cache
+C:\Users\Nimmi\source\repos\IntNull\IntNull\bin\Debug\IntNull.exe.config
+C:\Users\Nimmi\source\repos\IntNull\IntNull\bin\Debug\IntNull.exe
+C:\Users\Nimmi\source\repos\IntNull\IntNull\bin\Debug\IntNull.pdb
+C:\Users\Nimmi\source\repos\IntNull\IntNull\obj\Debug\IntNull.exe
+C:\Users\Nimmi\source\repos\IntNull\IntNull\obj\Debug\IntNull.pdb
